@@ -1,3 +1,5 @@
+# Seventh Ave Official TypeScript Code Style Reference [ FORKED FROM TS Standard ](https://github.com/standard/ts-standard)
+
 [![Tests](https://github.com/standard/ts-standard/workflows/tests/badge.svg?branch=master)](https://github.com/standard/ts-standard/actions?query=workflow%3A%22tests%22)
 [![Coverage Status](https://coveralls.io/repos/github/standard/ts-standard/badge.svg?branch=master)](https://coveralls.io/github/standard/ts-standard?branch=master)
 [![npm](https://badgen.net/npm/v/ts-standard)](https://www.npmjs.com/package/ts-standard)
